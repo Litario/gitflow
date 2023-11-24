@@ -3,4 +3,7 @@ venv/Lib
 
 /venv/
 .idea/
+.idea
 
+*.pyc
+__pycashe__
