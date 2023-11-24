@@ -1,4 +1,4 @@
-﻿def reverse_text(v):
+﻿def reverse_text(v: str):
     """
     Функция разворачивания текста
     """
